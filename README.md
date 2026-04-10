@@ -47,13 +47,13 @@ We aim to provide a comprehensive overview for researchers, developers, and infr
 
 Cross-layer conceptual works that define and motivate the Agent Harness as a first-class research object.
 
-- **[Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)** — *Young et al. (2025)* — long-running agent harness management
+- **[Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)** — *Young et al. (2025)* — long-running agent harness management [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 - **[Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723)** — *Pan et al. (2026)* — natural-language harness design
 - **[Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756)** — *He et al. (2026)* — harness as control, agency, and runtime layer
 - **[Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344)** — *Bui et al. (2026)* — terminal coding agent scaffolding, context engineering, lessons learned
-- **[Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)** — *Lopopolo et al. (2026)* — Codex-based harness engineering
-- **[The importance of Agent Harness in 2026](https://www.philschmid.de/agent-harness-2026)** — *Schmid et al. (2026)* — agent harness importance analysis
-- **[What is an agent harness in the context of large-language models?](https://parallel.ai/articles/what-is-an-agent-harness)** — *Parallel Web Systems et al. (2025)* — agent harness concept overview
+- **[Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)** — *Lopopolo et al. (2026)* — Codex-based harness engineering [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
+- **[The importance of Agent Harness in 2026](https://www.philschmid.de/agent-harness-2026)** — *Schmid et al. (2026)* — agent harness importance analysis [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
+- **[What is an agent harness in the context of large-language models?](https://parallel.ai/articles/what-is-an-agent-harness)** — *Parallel Web Systems et al. (2025)* — agent harness concept overview [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 - **[Meta-Harness: End-to-End Optimization of Model Harnesses](https://arxiv.org/abs/2603.28052)** — *Lee et al. (2026)* — end-to-end automated optimization of harness code
 
 ## Layer 1: Execution & Orchestration
@@ -83,11 +83,11 @@ Dynamically determining which LLM or specialized agent should handle a given sub
 
 Treating agents as composable, modular entities and orchestrating concurrent subagent spawning, delegation, and synchronized state handoffs.
 
-- **[Claude Code Subagents](https://docs.anthropic.com/en/docs/claude-code/subagents)** — *Anthropic (2025)* — custom AI subagent spawning
+- **[Claude Code Subagents](https://docs.anthropic.com/en/docs/claude-code/subagents)** — *Anthropic (2025)* — custom AI subagent spawning [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 - **[Compass: Enhancing agent long-horizon reasoning with evolving context](https://arxiv.org/abs/2510.08790)** — *Wan et al. (2025)* — evolving context for long-horizon reasoning
 - **[Kimi K2. 5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)** — *Team et al. (2026)* — visual agentic intelligence
-- **[Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)** — *OpenAI et al. (2024)* — lightweight multi-agent orchestration [![Open Source](https://img.shields.io/badge/Open%20Source-✓-green)]()
-- **[CrewAI: Framework for orchestrating role-playing autonomous AI agents](https://github.com/crewAIInc/crewAI)** — *Moura et al. (2025)* — role-playing agent orchestration [![Open Source](https://img.shields.io/badge/Open%20Source-✓-green)]()
+- **[Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)** — *OpenAI et al. (2024)* — lightweight multi-agent orchestration [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]() [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]()
+- **[CrewAI: Framework for orchestrating role-playing autonomous AI agents](https://github.com/crewAIInc/crewAI)** — *Moura et al. (2025)* — role-playing agent orchestration [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]() [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]()
 - **[A Declarative Language for Building And Orchestrating LLM-Powered Agent Workflows](https://arxiv.org/abs/2512.19769)** — *Daunis et al. (2025)* — declarative agent workflow language
 - **[Orchestral AI: A Framework for Agent Orchestration](https://arxiv.org/abs/2601.02577)** — *Roman et al. (2026)* — general-purpose agent orchestration
 
@@ -160,7 +160,7 @@ Persisting the agent's execution history to external storage for recovery, repla
 - **[Large-scale Evaluation of Notebook Checkpointing with AI Agents](https://arxiv.org/abs/2504.01377)** — *Fang et al. (2025)* — notebook checkpointing evaluation
 - **[AgentTrace: A Structured Logging Framework for Agent System Observability](https://arxiv.org/abs/2602.10133)** — *AlSayyad et al. (2026)* — structured logging for observability
 - **[AgentSight: System-Level Observability for AI Agents Using eBPF](https://arxiv.org/abs/2508.02736)** — *Zheng et al. (2025)* — eBPF-based system-level observability
-- **[Durable Execution in LangGraph](https://docs.langchain.com/oss/python/langgraph/durable-execution)** — *LangChain et al. (2026)* — fault-tolerant durable execution
+- **[Durable Execution in LangGraph](https://docs.langchain.com/oss/python/langgraph/durable-execution)** — *LangChain et al. (2026)* — fault-tolerant durable execution [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 
 ### Self-Evolving Architectures
 
@@ -204,10 +204,10 @@ Modular, reusable capabilities that agents acquire, compose, and execute to exte
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/abs/2603.02766)** — *Alzubi et al. (2026)* — automated multi-agent skill discovery
 - **[SkillsBench: Benchmarking how well agent skills work across diverse tasks](https://arxiv.org/abs/2602.12670)** — *Li et al. (2026)* — skill benchmarking across diverse tasks
 - **[Cua-skill: Develop skills for computer using agent](https://arxiv.org/abs/2601.21123)** — *Chen et al. (2026)* — skills for computer-using agents
-- **[Introducing Agent Skills](https://www.anthropic.com/news/skills)** — *Anthropic et al. (2025)* — agent skill platform launch
+- **[Introducing Agent Skills](https://www.anthropic.com/news/skills)** — *Anthropic et al. (2025)* — agent skill platform launch [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 - **[Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102)** — *Wang et al. (2025)* — RL-based self-improving skill library
 - **[Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis](https://arxiv.org/abs/2602.03279)** — *Jiao et al. (2026)* — compositional skill synthesis
-- **[Gemini CLI Skills Documentation](https://geminicli.com/docs/cli/skills)** — *Google et al. (2025)* — CLI-based agent skills
+- **[Gemini CLI Skills Documentation](https://geminicli.com/docs/cli/skills)** — *Google et al. (2025)* — CLI-based agent skills [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 
 ### Skills Security
 
@@ -230,7 +230,7 @@ Defining and standardizing how agents interact with tools, APIs, and external en
 - **[From language to action: a review of large language models as autonomous agents and tool users](https://arxiv.org/abs/2508.17281)** — *Chowa et al. (2026)* — LLM as autonomous agent review
 - **[Defining and Detecting the Defects of Large Language Model-based Autonomous Agents](https://arxiv.org/abs/2412.18371)** — *Ning et al. (2026)* — LLM agent defect detection
 - **[Llm agents making agent tools](https://arxiv.org/abs/2502.11705)** — *Wolflein et al. (2025)* — agents making agent tools
-- **[Code-Mode: Plug-and-play library to enable agents to call MCP and UTCP tools via code execution](https://github.com/universal-tool-calling-protocol/code-mode)** — *Protocol et al. (2026)* — MCP/UTCP via code execution [![Open Source](https://img.shields.io/badge/Open%20Source-✓-green)]()
+- **[Code-Mode: Plug-and-play library to enable agents to call MCP and UTCP tools via code execution](https://github.com/universal-tool-calling-protocol/code-mode)** — *Protocol et al. (2026)* — MCP/UTCP via code execution [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]() [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]()
 - **[Ui-tars: Pioneering automated gui interaction with native agents](https://arxiv.org/abs/2501.12326)** — *Qin et al. (2025)* — native automated GUI interaction
 - **[GeoJSON agents: a multi-agent LLM architecture for geospatial analysis—function calling vs. code generation](https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2615511)** — *Luo et al. (2026)* — function calling vs code generation
 - **[Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity](https://arxiv.org/abs/2601.00268)** — *Kim et al. (2026)* — real-world API complexity evaluation
@@ -252,7 +252,7 @@ Because LLM outputs are inherently probabilistic, Layer 4 acts as an **independe
 
 Isolating agent execution to contain erratic behaviors and protect host infrastructure.
 
-- **[The two patterns by which agents connect sandboxes](https://blog.langchain.dev/the-two-patterns-by-which-agents-connect-sandboxes/)** — *LangChain et al. (2026)* — agent-sandbox connection patterns
+- **[The two patterns by which agents connect sandboxes](https://blog.langchain.dev/the-two-patterns-by-which-agents-connect-sandboxes/)** — *LangChain et al. (2026)* — agent-sandbox connection patterns [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]() [![Blog](https://img.shields.io/badge/Blog-Post-orange?logo=rss)]()
 - **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210)** — *Yuan et al. (2026)* — container-free RL sandbox
 - **[Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning](https://arxiv.org/abs/2509.02544)** — *Wang et al. (2025)* — multi-turn RL GUI agent sandbox
 - **[Computer Environments Elicit General Agentic Intelligence in LLMs](https://arxiv.org/abs/2601.16206)** — *Cheng et al. (2026)* — sandbox for agentic intelligence
@@ -271,7 +271,7 @@ Enforcing access control, permission management, and policy compliance for agent
 
 - **[POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation](https://arxiv.org/abs/2601.11816)** — *Moslemi et al. (2026)* — typed planning and governed execution
 - **[ContextCov: Deriving and Enforcing Executable Constraints from Agent Instruction Files](https://arxiv.org/abs/2603.00822)** — *Sharma et al. (2026)* — executable constraint enforcement
-- **[Sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container](https://github.com/anthropic-experimental/sandbox-runtime)** — *Anthropic et al. (2026)* — OS-level filesystem/network sandboxing [![Open Source](https://img.shields.io/badge/Open%20Source-✓-green)]()
+- **[Sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container](https://github.com/anthropic-experimental/sandbox-runtime)** — *Anthropic et al. (2026)* — OS-level filesystem/network sandboxing [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]() [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)]()
 - **[Securing AI Agent Execution](https://arxiv.org/abs/2510.21236)** — *Buhler et al. (2025)* — agent execution security analysis
 - **[BashArena: A Control Setting for Highly Privileged AI Agents](https://arxiv.org/abs/2512.15688)** — *Kaufman et al. (2025)* — highly-privileged agent control setting
 - **[Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](https://arxiv.org/abs/2601.17549)** — *Maloyan et al. (2026)* — MCP specification security analysis
