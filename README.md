@@ -383,9 +383,7 @@ Defending against adversarial prompt injection attacks targeting agentic systems
 
 Contributions are welcome! To add a paper, open a pull request with the new entry added to the relevant section, following the format below:
 
-```
-<tr><td><a href="PAPER_URL">Title</a></td><td>Year</td><td>Brief description</td></tr>
-```
+> Title-Year-Brief description
 
 Please ensure the paper is directly relevant to the Agent Harness infrastructure.
 
