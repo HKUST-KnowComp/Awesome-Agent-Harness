@@ -4,7 +4,7 @@
 
 A curated list of pioneering research papers, tools, and resources on the **Agent Harness** — the systematic execution layer that transforms raw model capability into sustained, long-horizon autonomy.
 
-Survey: ***A Survey on AI Agent Harness*** (coming soon on arXiv)
+Survey: ***A Survey on AI Agent Harness*** (coming soon on preprint website; preview in this repo)
 
 > **Agent = Model (Stochastic Intelligence) + Harness (Deterministic Infrastructure)**
 
