@@ -4,7 +4,7 @@
 
 A curated list of pioneering research papers, tools, and resources on the **Agent Harness** — the systematic execution layer that transforms raw model capability into sustained, long-horizon autonomy.
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-red?logo=arxiv&logoColor=white)]()
+[![arXiv](https://img.shields.io/badge/Paper-Coming%20Soon-red?logo=arxiv)]()
 [![PDF Preview](https://img.shields.io/badge/PDF-Preview-blue?logo=adobeacrobatreader&logoColor=white)](survey.pdf)
 
 ***A Survey on AI Agent Harness***
