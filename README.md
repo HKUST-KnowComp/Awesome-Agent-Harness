@@ -2,7 +2,7 @@
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/zhongweixie/Awesome-Agent-Harness?style=social)]()
+[![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-Agent-Harness?style=social)]()
 [![Papers](https://img.shields.io/badge/Papers-161-brightgreen)]()
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
