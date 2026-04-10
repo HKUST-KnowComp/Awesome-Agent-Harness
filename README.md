@@ -17,7 +17,7 @@ The survey proposes a **Unified Architectural Taxonomy** that organizes the Agen
 
 Below is a visual representation of this taxonomy:
 
-![Agent Harness: A Four-Layer Architectural Stack](taxonomy.png)
+![Model-Harness Asymmetric Co-evolution](taxonomy.png)
 
 We aim to provide a comprehensive overview for researchers, developers, and infrastructure engineers interested in this rapidly advancing field.
 
