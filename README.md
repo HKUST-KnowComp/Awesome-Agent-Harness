@@ -83,6 +83,7 @@ Dynamically determining which LLM or specialized agent should handle a given sub
 
 Treating agents as composable, modular entities and orchestrating concurrent subagent spawning, delegation, and synchronized state handoffs.
 
+- **[Claude Code Subagents](https://docs.anthropic.com/en/docs/claude-code/subagents)** — *Anthropic (2025)* — custom AI subagent spawning
 - **[Compass: Enhancing agent long-horizon reasoning with evolving context](https://arxiv.org/abs/2510.08790)** — *Wan et al. (2025)* — evolving context for long-horizon reasoning
 - **[Kimi K2. 5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)** — *Team et al. (2026)* — visual agentic intelligence
 - **[Swarm: An educational framework exploring ergonomic, lightweight multi-agent orchestration](https://github.com/openai/swarm)** — *OpenAI et al. (2024)* — lightweight multi-agent orchestration [![Open Source](https://img.shields.io/badge/Open%20Source-✓-green)]()
@@ -94,6 +95,7 @@ Treating agents as composable, modular entities and orchestrating concurrent sub
 
 Ensuring the execution loop is resilient to non-termination and drift, and managing the spectrum from full human oversight to closed-loop autonomy.
 
+- **[Human-in-the-Loop or AI-in-the-Loop? Automate or Collaborate?](https://arxiv.org/abs/2412.14232)** — *Natarajan et al. (2025)* — human-in-the-loop vs AI-in-the-loop
 - **[Adaptive fault tolerance mechanisms of large language models in cloud computing environments](https://arxiv.org/abs/2503.12228)** — *Jin et al. (2025)* — adaptive fault tolerance in cloud LLMs
 - **[ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering](https://arxiv.org/abs/2602.23193)** — *dos Santos Filho et al. (2026)* — event sourcing for autonomous agents
 - **[Combining LLM, Non-monotonic Logical Reasoning, and Human-in-the-loop Feedback in an Assistive AI Agent](https://ieeexplore.ieee.org/abstract/document/11217618/)** — *Fu et al. (2025)* — LLM + non-monotonic reasoning + HITL
