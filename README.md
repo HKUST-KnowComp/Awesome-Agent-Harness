@@ -15,7 +15,7 @@ The survey proposes a **Unified Architectural Taxonomy** that organizes the Agen
 - **Layer 3: Interaction Surface & Execution Environment** — The sensory and actuation organs connecting the agent to the world via tool calling, standardized protocols, and sandboxed execution.
 - **Layer 4: Constraints & Guardrails** — The independent observer enforcing deterministic laws through access control, permission management, and defense against agent injection.
 
-Below is a visual representation of this taxonomy:
+The figure below illustrates the **asymmetric co-evolution** between model capability and harness responsibility:
 
 ![Model-Harness Asymmetric Co-evolution](taxonomy.png)
 
