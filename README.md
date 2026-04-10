@@ -155,7 +155,7 @@ Strategies to prevent **Context Rot** — the progressive degradation of reasoni
 
 Persisting the agent's execution history to external storage for recovery, replay, and continuous learning, while decoupling observability from the model's working memory.
 
-- **[Improving the efficiency of LLM agent systems through trajectory reduction](https://arxiv.org/abs/2509.23586)** — *Xiao et al. (2025)* — trajectory reduction for efficiency
+- **[Reducing Cost of LLM Agents with Trajectory Reduction](https://arxiv.org/abs/2509.23586)** — *Xiao et al. (2025)* — trajectory reduction for efficiency
 - **[Semantic Checkpointing for Stateless LLM Agents in Multi-Tenant Enterprise Systems](https://www.researchgate.net/publication/399433967_Semantic_Checkpointing_for_Stateless_LLM_Agents_Semantic_Checkpointing_for_Stateless_LLM_Agents_in_Multi-Tenant_Enterprise_Systems)** — *Roshan et al. (2025)* — semantic checkpointing for stateless agents
 - **[Large-scale Evaluation of Notebook Checkpointing with AI Agents](https://arxiv.org/abs/2504.01377)** — *Fang et al. (2025)* — notebook checkpointing evaluation
 - **[AgentTrace: A Structured Logging Framework for Agent System Observability](https://arxiv.org/abs/2602.10133)** — *AlSayyad et al. (2026)* — structured logging for observability
@@ -174,7 +174,7 @@ Agent systems that improve their own capabilities, prompts, or memory structures
 - **[Dynamic cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952)** — *Suzgun et al. (2026)* — test-time learning with adaptive memory
 - **[Adaptive self-improvement llm agentic system for ml library development](https://arxiv.org/abs/2502.02534)** — *Zhang et al. (2025)* — self-improvement for ML library dev
 - **[AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization](https://arxiv.org/abs/2511.15915)** — *Zhang et al. (2025)* — self-improving kernel optimization
-- **[Agentfly: Fine-tuning llm agents without fine-tuning llms](https://arxiv.org/abs/2508.16153)** — *Zhou et al. (2025)* — fine-tuning agents without LLM FT
+- **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)** — *Zhou et al. (2025)* — fine-tuning agents without LLM FT
 - **[Multi-agent evolve: Llm self-improve through co-evolution](https://arxiv.org/abs/2510.23595)** — *Chen et al. (2025)* — LLM self-improve through co-evolution
 - **[Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning](https://arxiv.org/abs/2504.20073)** — *Wang et al. (2025)* — self-evolution via multi-turn RL
 - **[Evo-memory: Benchmarking llm agent test-time learning with self-evolving memory](https://arxiv.org/abs/2511.20857)** — *Wei et al. (2025)* — c@benchmarking test-time self-evolving memory
@@ -255,7 +255,7 @@ Isolating agent execution to contain erratic behaviors and protect host infrastr
 - **[The two patterns by which agents connect sandboxes](https://blog.langchain.dev/the-two-patterns-by-which-agents-connect-sandboxes/)** — *LangChain et al. (2026)* — agent-sandbox connection patterns
 - **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210)** — *Yuan et al. (2026)* — container-free RL sandbox
 - **[Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning](https://arxiv.org/abs/2509.02544)** — *Wang et al. (2025)* — multi-turn RL GUI agent sandbox
-- **[Llm-in-sandbox elicits general agentic intelligence](https://arxiv.org/abs/2601.16206)** — *Cheng et al. (2026)* — sandbox for agentic intelligence
+- **[Computer Environments Elicit General Agentic Intelligence in LLMs](https://arxiv.org/abs/2601.16206)** — *Cheng et al. (2026)* — sandbox for agentic intelligence
 - **[Sari Sandbox: A Virtual Retail Store Environment for Embodied AI Agents](https://arxiv.org/abs/2508.00400)** — *Gajo et al. (2025)* — virtual retail store environment
 - **[SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents](https://www.ijcai.org/proceedings/2025/1271)** — *Touzel et al. (2025)* — social media simulation sandbox
 - **[cellmate: Sandboxing browser ai agents](https://arxiv.org/abs/2512.12594)** — *Meng et al. (2025)* — browser AI agent sandboxing
