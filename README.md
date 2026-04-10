@@ -33,17 +33,6 @@ We aim to provide a comprehensive overview for researchers, developers, and infr
 ---
 
 
-## 📊 Paper Statistics
-
-| Category | Sub-sections | Papers |
-|----------|--------------|--------|
-| **Agent Harness Foundations** | 1 | 8 |
-| **Layer 1: Execution & Orchestration** | 3 | 30 |
-| **Layer 2: Context & Trajectory** | 6 | 80 |
-| **Layer 3: Interaction & Environment** | 2 | 11 |
-| **Layer 4: Constraints & Guardrails** | 3 | 30 |
-| **Total** | **15** | **159** |
-
 ## Contents
 
 - [Agent Harness Foundations](#agent-harness-foundations)
@@ -236,7 +225,7 @@ Agent systems that improve their own capabilities, prompts, or memory structures
 <tr><td><a href="https://arxiv.org/abs/2508.16153">Memento: Fine-tuning LLM Agents without Fine-tuning LLMs</a></td><td>Zhou et al.</td><td>2025</td><td>fine-tuning agents without LLM FT</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2510.23595">Multi-agent evolve: Llm self-improve through co-evolution</a></td><td>Chen et al.</td><td>2025</td><td>LLM self-improve through co-evolution</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2504.20073">Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning</a></td><td>Wang et al.</td><td>2025</td><td>self-evolution via multi-turn RL</td></tr>
-<tr><td><a href="https://arxiv.org/abs/2511.20857">Evo-memory: Benchmarking llm agent test-time learning with self-evolving memory</a></td><td>Wei et al.</td><td>2025</td><td>c@benchmarking test-time self-evolving memory</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2511.20857">Evo-memory: Benchmarking llm agent test-time learning with self-evolving memory</a></td><td>Wei et al.</td><td>2025</td><td>benchmarking test-time self-evolving memory</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2504.21024">WebEvolver: Enhancing Web Agent Self-Improvement with Co-evolving World Model</a></td><td>Fang et al.</td><td>2025</td><td>co-evolving web world model</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2508.04700">SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience</a></td><td>Sun et al.</td><td>2025</td><td>self-evolving computer use agent</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2503.22678">Self-evolving multi-agent simulations for realistic clinical interactions</a></td><td>Almansoori et al.</td><td>2025</td><td>self-evolving clinical simulations</td></tr>
@@ -344,7 +333,7 @@ Isolating agent execution to contain erratic behaviors and protect host infrastr
 <tr><td><a href="https://www.ijcai.org/proceedings/2025/1271">SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents</a></td><td>Touzel et al.</td><td>2025</td><td>social media simulation sandbox</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2512.12594">cellmate: Sandboxing browser ai agents</a></td><td>Meng et al.</td><td>2025</td><td>browser AI agent sandboxing</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2512.04367">AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems</a></td><td>Piao et al.</td><td>2025</td><td>hybrid human-AI interaction sandbox</td></tr>
-<tr><td><a href="https://arxiv.org/abs/2510.13982">Static Sandboxes Are Inadequate: Modeling Societal Complexity Requires Open-Ended Co-Evolution in LLM-Based Multi-Agent Simulations</a></td><td>Chen et al.</td><td>2025</td><td>c@static sandboxes are inadequate; open-ended co-evolution needed</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2510.13982">Static Sandboxes Are Inadequate: Modeling Societal Complexity Requires Open-Ended Co-Evolution in LLM-Based Multi-Agent Simulations</a></td><td>Chen et al.</td><td>2025</td><td>static sandboxes are inadequate; open-ended co-evolution needed</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2505.19253">Deepresearchgym: A free, transparent, and reproducible evaluation sandbox for deep research</a></td><td>Coelho et al.</td><td>2025</td><td>reproducible deep research evaluation</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2602.03419">SWE-World: Building Software Engineering Agents in Docker-Free Environments</a></td><td>Sun et al.</td><td>2026</td><td>Docker-free SWE environments</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2504.07164">R2e-gym: Procedural environments and hybrid verifiers for scaling open-weights swe agents</a></td><td>Jain et al.</td><td>2025</td><td>procedural environments with hybrid verifiers</td></tr>
@@ -378,13 +367,13 @@ Defending against adversarial prompt injection attacks targeting agentic systems
 <tr><td><a href="https://arxiv.org/abs/2602.03117">AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System</a></td><td>Li et al.</td><td>2026</td><td>dynamic prompt injection benchmark</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2602.03792">WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents</a></td><td>Wang et al.</td><td>2026</td><td>web agent injection detection</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.10173">ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack</a></td><td>Li et al.</td><td>2026</td><td>reasoning-enhanced injection safety</td></tr>
-<tr><td><a href="https://arxiv.org/abs/2602.08412">From assistant to double agent: Formalizing and benchmarking attacks on openclaw for personalized local ai agent</a></td><td>Wang et al.</td><td>2026</td><td>c@formalizing attacks on OpenClaw for personalized local agents</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2602.08412">From assistant to double agent: Formalizing and benchmarking attacks on openclaw for personalized local ai agent</a></td><td>Wang et al.</td><td>2026</td><td>formalizing attacks on OpenClaw for personalized local agents</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2603.11619">Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats</a></td><td>Deng et al.</td><td>2026</td><td>OpenClaw security analysis and mitigation</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2603.12644">Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw</a></td><td>Ying et al.</td><td>2026</td><td>OpenClaw threat architecture and defenses</td></tr>
-<tr><td><a href="https://arxiv.org/abs/2603.24414">ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers</a></td><td>Liu et al.</td><td>2026</td><td>c@comprehensive safety via skills, plugins, and watchers</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2603.24414">ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers</a></td><td>Liu et al.</td><td>2026</td><td>comprehensive safety via skills, plugins, and watchers</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2602.14364">A trajectory-based safety audit of clawdbot (openclaw)</a></td><td>Chen et al.</td><td>2026</td><td>trajectory-based safety audit</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2603.11853">OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents</a></td><td>Li et al.</td><td>2026</td><td>zero-fork defense-in-depth runtime</td></tr>
-<tr><td><a href="https://arxiv.org/abs/2602.02625">OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network</a></td><td>Manik et al.</td><td>2026</td><td>c@risky instruction sharing and norm enforcement in agent networks</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2602.02625">OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network</a></td><td>Manik et al.</td><td>2026</td><td>risky instruction sharing and norm enforcement in agent networks</td></tr>
 </tbody></table>
 
 
@@ -392,19 +381,7 @@ Defending against adversarial prompt injection attacks targeting agentic systems
 
 ## Contributing
 
-We welcome contributions! If you have a paper, tool, or resource that belongs in this list, please open a pull request or issue.
-
-When adding a new paper, please follow the format:
-```
-<table>
-<thead><tr><th width="45%">Title</th><th width="20%">Author</th><th width="5%">Year</th><th width="30%">Description</th></tr></thead>
-<tbody>
-<tr><td><a href="link">Paper Title</a></td><td>Author et al. (Year)</td><td></td><td>brief description</td></tr>
-```
-</tbody></table>
-
-
-Please ensure the paper is directly relevant to the Agent Harness infrastructure (orchestration, context management, execution environments, or guardrails).
+Contributions are welcome! To add a paper, open a pull request with the new entry added to the relevant section, following the existing table format. Please ensure the paper is directly relevant to the Agent Harness infrastructure.
 
 ---
 
