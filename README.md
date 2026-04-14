@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-Agent-Harness?style=social)]()
-[![Papers](https://img.shields.io/badge/Papers-161-brightgreen)]()
+[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)]()
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
@@ -260,7 +260,7 @@ Modular, reusable capabilities that agents acquire, compose, and execute to exte
 <tr><td><a href="https://www.anthropic.com/news/skills">Introducing Agent Skills</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Anthropic et al.</td><td>2025</td><td>agent skill platform launch</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2512.17102">Reinforcement Learning for Self-Improving Agent with Skill Library</a></td><td>Wang et al.</td><td>2025</td><td>RL-based self-improving skill library</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2602.03279">Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis</a></td><td>Jiao et al.</td><td>2026</td><td>compositional skill synthesis</td></tr>
-<tr><td><a href="https://geminicli.com/docs/cli/skills">Gemini CLI Skills Documentation</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Google et al.</td><td>2025</td><td>CLI-based agent skills</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2604.08377">SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</a></td><td>Ma et al.</td><td>2026</td><td>collective skill evolution via cloud sharing</td></tr>
 </tbody></table>
 
 
@@ -297,6 +297,9 @@ Defining and standardizing how agents interact with tools, APIs, and external en
 <tr><td><a href="https://arxiv.org/abs/2501.12326">Ui-tars: Pioneering automated gui interaction with native agents</a></td><td>Qin et al.</td><td>2025</td><td>native automated GUI interaction</td></tr>
 <tr><td><a href="https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2615511">GeoJSON agents: a multi-agent LLM architecture for geospatial analysis—function calling vs. code generation</a></td><td>Luo et al.</td><td>2026</td><td>function calling vs code generation</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.00268">Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity</a></td><td>Kim et al.</td><td>2026</td><td>real-world API complexity evaluation</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2604.02369">Beyond Message Passing: Toward Semantically Aligned Agent Communication</a></td><td>Yuan et al.</td><td>2026</td><td>semantically aligned agent communication</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2505.12490">Improving Google A2A Protocol: Protecting Sensitive Data and Mitigating Unintended Harms in Multi-Agent Systems</a></td><td>Louck et al.</td><td>2025</td><td>A2A protocol sensitive data protection</td></tr>
+<tr><td><a href="https://openreview.net/pdf?id=LfdFnakqGJ">A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems</a></td><td>Li et al.</td><td>2026</td><td>protocol-aware A2A security benchmark</td></tr>
 </tbody></table>
 
 
