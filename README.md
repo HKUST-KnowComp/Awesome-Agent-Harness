@@ -401,8 +401,12 @@ Please ensure the paper is directly relevant to the Agent Harness infrastructure
 If you find this repository or our survey paper helpful, please consider citing:
 
 ```bibtex
-@article{xiesurvey,
+@misc{xiesurvey2026,
   title={A Survey on AI Agent Harness},
-  author={Xie, Zhongwei and Ren, Xiyu and Zheng, Tianshi and Bai, Jiaxin and Fan, Wei and Xu, Baixuan and Li, Haoran and Jing, Huihao and Song, Yangqiu}
+  author={Xie, Zhongwei and Ren, Xiyu and Zheng, Tianshi and Bai, Jiaxin and Fan, Wei and Xu, Baixuan and Li, Haoran and Jing, Huihao and Song, Yangqiu},
+  year={2026},
+  month={5},
+  howpublished={ResearchGate Preprint},
+  doi={10.13140/RG.2.2.31393.57447}
 }
 
