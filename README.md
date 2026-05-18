@@ -3,8 +3,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-Agent-Harness?style=social)]()
-[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)]()
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04-blue)]()
+[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)](https://www.researchgate.net/profile/Zhongwei-Xie-3/publication/404675561_A_Survey_on_AI_Agent_Harness/links/69fedeb3e93d461915959bed/A-Survey-on-AI-Agent-Harness.pdf)
+[![Citation](https://img.shields.io/badge/cite-BibTeX-orange)](#citation)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
 
@@ -396,9 +397,10 @@ Please ensure the paper is directly relevant to the Agent Harness infrastructure
 
 ---
 
-## Citation
+<a name="citation"></a>
+## 📑 Citation
 
-If you find this repository or our survey paper helpful, please consider citing:
+If you find our survey or this repository helpful to your research, please consider citing our paper:
 
 ```bibtex
 @misc{xiesurvey2026,
@@ -409,4 +411,3 @@ If you find this repository or our survey paper helpful, please consider citing:
   howpublished={ResearchGate Preprint},
   doi={10.13140/RG.2.2.31393.57447}
 }
-
