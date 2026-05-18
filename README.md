@@ -404,7 +404,7 @@ If you find our survey or this repository helpful to your research, please consi
 
 ```bibtex
 @article{xiesurvey2026,
-  title={A Survey on AI Agent Harness},
+  title={A Survey on {AI} {Agent} {Harness}},
   author={Xie, Zhongwei and Ren, Xiyu and Zheng, Tianshi and Bai, Jiaxin and Fan, Wei and Xu, Baixuan and Li, Haoran and Jing, Huihao and Song, Yangqiu},
   year={2026},
   month={5},
