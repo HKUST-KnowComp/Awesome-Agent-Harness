@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-Agent-Harness?style=social)]()
-[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)](https://www.researchgate.net/profile/Zhongwei-Xie-3/publication/404675561_A_Survey_on_AI_Agent_Harness/links/69fedeb3e93d461915959bed/A-Survey-on-AI-Agent-Harness.pdf)
+[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)]()
 [![Citation](https://img.shields.io/badge/cite-BibTeX-orange)](#citation)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
@@ -12,7 +12,7 @@
 A curated list of pioneering research papers, tools, and resources on the **Agent Harness** — the systematic execution layer that transforms raw model capability into sustained, long-horizon autonomy.
 
 [![arXiv](https://img.shields.io/badge/Paper-Coming%20Soon-red?logo=arxiv)]()
-[![PDF Preview](https://img.shields.io/badge/PDF-Preview-blue?logo=adobeacrobatreader&logoColor=white)](Agent_Harness_Survey.pdf)
+[![PDF Preview](https://img.shields.io/badge/PDF-Preview-blue?logo=adobeacrobatreader&logoColor=white)](https://www.researchgate.net/profile/Zhongwei-Xie-3/publication/404675561_A_Survey_on_AI_Agent_Harness/links/69fedeb3e93d461915959bed/A-Survey-on-AI-Agent-Harness.pdf)
 
 ***A Survey on AI Agent Harness***
 
