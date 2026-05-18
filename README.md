@@ -393,3 +393,16 @@ Please ensure the paper is directly relevant to the Agent Harness infrastructure
 ---
 
 *This repository is maintained in conjunction with the survey paper **"A Survey on AI Agent Harness"**.*
+
+---
+
+## Citation
+
+If you find this repository or our survey paper helpful, please consider citing:
+
+```bibtex
+@article{xiesurvey,
+  title={A Survey on AI Agent Harness},
+  author={Xie, Zhongwei and Ren, Xiyu and Zheng, Tianshi and Bai, Jiaxin and Fan, Wei and Xu, Baixuan and Li, Haoran and Jing, Huihao and Song, Yangqiu}
+}
+
