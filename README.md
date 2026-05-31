@@ -69,6 +69,7 @@ Cross-layer conceptual works that define and motivate the Agent Harness as a fir
 <tr><td><a href="https://www.philschmid.de/agent-harness-2026">The importance of Agent Harness in 2026</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Schmid et al.</td><td>2026</td><td>agent harness importance analysis</td></tr>
 <tr><td><a href="https://parallel.ai/articles/what-is-an-agent-harness">What is an agent harness in the context of large-language models?</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Parallel Web Systems et al.</td><td>2025</td><td>agent harness concept overview</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2603.28052">Meta-Harness: End-to-End Optimization of Model Harnesses</a></td><td>Lee et al.</td><td>2026</td><td>end-to-end automated optimization of harness code</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2605.08083">LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling</a></td><td>Zheng et al.</td><td>2026</td><td>environment-driven automated optimization of test-time scaling harness code</td></tr>
 </tbody></table>
 
 
@@ -237,6 +238,7 @@ Agent systems that improve their own capabilities, prompts, or memory structures
 <tr><td><a href="https://arxiv.org/abs/2602.02474">MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents</a></td><td>Zhang et al.</td><td>2026</td><td>learning and evolving memory skills</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.16489">EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration</a></td><td>Guo et al.</td><td>2026</td><td>self-evolving multi-agent configuration</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.05503">Over-Searching in Search-Augmented Large Language Models</a></td><td>Xie et al.</td><td>2026</td><td>over-searching in search-augmented LLMs</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2605.08083">LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling</a></td><td>Zheng et al.</td><td>2026</td><td>agentic discovery for test time scaling harness</td></tr>
 </tbody></table>
 
 
