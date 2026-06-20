@@ -205,6 +205,7 @@ Persisting the agent's execution history to external storage for recovery, repla
 <tr><td><a href="https://arxiv.org/abs/2602.10133">AgentTrace: A Structured Logging Framework for Agent System Observability</a></td><td>AlSayyad et al.</td><td>2026</td><td>structured logging for observability</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2508.02736">AgentSight: System-Level Observability for AI Agents Using eBPF</a></td><td>Zheng et al.</td><td>2025</td><td>eBPF-based system-level observability</td></tr>
 <tr><td><a href="https://docs.langchain.com/oss/python/langgraph/durable-execution">Durable Execution in LangGraph</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>LangChain et al.</td><td>2026</td><td>fault-tolerant durable execution</td></tr>
+<tr><td><a href="https://github.com/Necmttn/ax">ax: Local telemetry and recall graph for AI coding agents</a> <img src="https://img.shields.io/badge/Code-black?logo=github" alt="Code"></td><td>Karakaya</td><td>2026</td><td>cross-harness sessions, tool calls, skills, costs, and OTLP observability</td></tr>
 </tbody></table>
 
 
