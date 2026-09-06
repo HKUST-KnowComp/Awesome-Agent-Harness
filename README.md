@@ -357,6 +357,7 @@ Enforcing access control, permission management, and policy compliance for agent
 <tr><td><a href="https://arxiv.org/abs/2510.21236">Securing AI Agent Execution</a></td><td>Buhler et al.</td><td>2025</td><td>agent execution security analysis</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2512.15688">BashArena: A Control Setting for Highly Privileged AI Agents</a></td><td>Kaufman et al.</td><td>2025</td><td>highly-privileged agent control setting</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.17549">Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents</a></td><td>Maloyan et al.</td><td>2026</td><td>MCP specification security analysis</td></tr>
+<tr><td><a href="https://github.com/KongFangXun/sofagent">Sofagent: An audit-first governance harness for AI coding agents — blocks credential leaks and out-of-scope file changes at commit time via 24 git-diff rules, with HMAC-chained audit logs and deterministic snapshot rollback</a> <img src="https://img.shields.io/badge/Code-black?logo=github" alt="Code"></td><td>KongFangXun</td><td>2026</td><td>commit-time audit and governance enforcement</td></tr>
 </tbody></table>
 
 
