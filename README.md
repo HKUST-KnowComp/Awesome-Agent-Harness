@@ -237,6 +237,7 @@ Agent systems that improve their own capabilities, prompts, or memory structures
 <tr><td><a href="https://arxiv.org/abs/2602.02474">MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents</a></td><td>Zhang et al.</td><td>2026</td><td>learning and evolving memory skills</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.16489">EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration</a></td><td>Guo et al.</td><td>2026</td><td>self-evolving multi-agent configuration</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2601.05503">Over-Searching in Search-Augmented Large Language Models</a></td><td>Xie et al.</td><td>2026</td><td>over-searching in search-augmented LLMs</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2608.15763">Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report</a></td><td>TaoLive AIGC LLM Team et al.</td><td>2026</td><td>harness-aware training for adaptation to evolving skills, tools, prompts, and hooks</td></tr>
 </tbody></table>
 
 
