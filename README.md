@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-Agent-Harness?style=social)]()
-[![Papers](https://img.shields.io/badge/Papers-164-brightgreen)]()
+[![Papers](https://img.shields.io/badge/Papers-165-brightgreen)]()
 [![Citation](https://img.shields.io/badge/cite-BibTeX-orange)](#citation)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
@@ -97,6 +97,7 @@ Dynamically determining which LLM or specialized agent should handle a given sub
 <tr><td><a href="https://arxiv.org/abs/2602.23681">ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference</a></td><td>Ma et al.</td><td>2026</td><td>active-inference adaptive routing</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2511.02200">Optimal-agent-selection: State-aware routing framework for efficient multi-agent collaboration</a></td><td>Wang et al.</td><td>2025</td><td>state-aware optimal agent selection</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2509.07571">Towards generalized routing: Model and agent orchestration for adaptive and efficient inference</a></td><td>Guo et al.</td><td>2025</td><td>generalized model-agent orchestration</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2610.17816">Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution</a></td><td>Huang et al.</td><td>2026</td><td>EC²-Bench (EC2-Bench): edge-cloud routing, delegation and advisory for long-horizon agents</td></tr>
 </tbody></table>
 
 
