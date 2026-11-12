@@ -69,6 +69,7 @@ Cross-layer conceptual works that define and motivate the Agent Harness as a fir
 <tr><td><a href="https://www.philschmid.de/agent-harness-2026">The importance of Agent Harness in 2026</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Schmid et al.</td><td>2026</td><td>agent harness importance analysis</td></tr>
 <tr><td><a href="https://parallel.ai/articles/what-is-an-agent-harness">What is an agent harness in the context of large-language models?</a> <img src="https://img.shields.io/badge/Blog-orange?logo=rss" alt="Blog"></td><td>Parallel Web Systems et al.</td><td>2025</td><td>agent harness concept overview</td></tr>
 <tr><td><a href="https://arxiv.org/abs/2603.28052">Meta-Harness: End-to-End Optimization of Model Harnesses</a></td><td>Lee et al.</td><td>2026</td><td>end-to-end automated optimization of harness code</td></tr>
+<tr><td><a href="https://arxiv.org/abs/2609.32423">PluginRSI: Recursive Improvement of Agent Harnesses with Reusable Plugins</a></td><td>Shi et al.</td><td>2026</td><td>recursive harness optimization via reusable plugins</td></tr>
 </tbody></table>
 
 
